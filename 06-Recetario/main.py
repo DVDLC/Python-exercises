@@ -1,6 +1,5 @@
 import os
 from pathlib import Path
-from unicodedata import category
 
 # GLOBAL HELPERS
 MY_RECIPE_PATH = Path( 'Recipe book' )
